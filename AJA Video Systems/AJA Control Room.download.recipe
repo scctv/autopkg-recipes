@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of AJA Control Room.</string>
 	<key>Identifier</key>
-	<string>com.github.scctv.autopkg-recipes.download.AJAControlRoom</string>
+	<string>org.scctv.download.AJAControlRoom</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
